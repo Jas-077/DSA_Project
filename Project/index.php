@@ -220,7 +220,7 @@ Path doesn’t exist is printed. </li>
 	<footer>
 		<div class="foot">
 			<p>Copyright © 2020 BinaryMaze</p>
-		  <a href="https://github.com/Jas-077/SE_Project.git" target="_blank">
+		  <a href="https://github.com/Jas-077/DSA_Project.git" target="_blank">
 			<i class="fa fa-github" style="color: rgb(53, 228, 53);font-size: 1.8em;"></i>
 			</a>
 		</div>
